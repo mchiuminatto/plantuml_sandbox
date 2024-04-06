@@ -1,0 +1,14 @@
+<!--
+@startjson ResponseMessage
+{
+   "user": "james-t-kirk",
+   "service":"tech-analysis",
+   "instrument":"EUR/USD",
+   "time-frame": "H1",
+   "message": "The EUR/USD will go up",
+   "request-datetime": "2024-04-01 05:00:00",
+   "response-datetime":  "2024-04-01 05:00:01"
+}
+@endjson
+-->
+
